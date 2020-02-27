@@ -1,1 +1,6 @@
-# Quantum Information La Plata <img src="https://img.icons8.com/ios-filled/50/000000/gyroscope.png">
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+I'm a work-from-home father who eats way too much pizza.
