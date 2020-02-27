@@ -29,6 +29,15 @@
   highlight:   0
   news2:
 
+- title:       Entrelazamiento Cuántico en Sistemas de Muchos Cuerpos (Quantum Entanglement in Many-Body Systems)
+  image:       Pub_nemat1.png
+  description: .
+  authors:     J.M. Matera Adv. :R. Rossignoli
+  link:
+    url:       http://sedici.unlp.edu.ar/handle/10915/2674
+    display:   Ph.D. Thesis, UNLP (2011).
+  highlight:   0
+  news2:
 
 #  Entrelazamiento Cuántico en Sistemas de Muchos Cuerpos
 # (Quantum Entanglement in Many-Body Systems)
