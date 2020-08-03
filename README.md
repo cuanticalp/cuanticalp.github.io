@@ -1,4 +1,4 @@
-![QILP](img/introg-bg.jpg)
+![QILP](/img/introg-bg.jpg)
 
 # About [QILP](https://qilp.org)
 
