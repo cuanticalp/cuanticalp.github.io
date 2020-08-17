@@ -1,3 +1,23 @@
+- title:       Separability and parity transitions in XYZ spin systems under nonuniform fields
+  image:       canosa2020.png
+  description: We examine the existence of completely separable ground states (GS) in finite spin-s arrays with anisotropic XYZ couplings, immersed in a non-uniform magnetic field along one of the principal axes. The general conditions for their existence are determined. The analytic expressions for the separability curve in field space, and for the ensuing factorized state and GS energy, are then derived for alternating solutions, valid for any spin and size. They generalize results for uniform fields and show that nonuniform fields can induce GS factorization also in systems which do not exhibit this phenomenon in a uniform field. It is also shown that such curve corresponds to a fundamental Sz-parity transition of the GS, present for any spin and size, and that two different types of GS parity diagrams can emerge, according to the anisotropy. The role of factorization in the magnetization and entanglement of these systems is also analyzed, and analytic expressions at the borders of the factorizing curve are provided. Illustrative examples for spin pairs and chains are as well discussed. 
+  authors:     M. Bilkis, N. Canosa, R.Rossignoli, N. Gigena
+  link:
+   url:        https://doi.org/10.1103/PhysRevA.101.052103
+   display:    Phys. Rev. A 101, 052103 (2020).
+  highlight:   0
+  news2:
+
+- title:       History state formalism for scalar particles
+  image:       diaz2019.png
+  description: We present a covariant quantum formalism for scalar particles based on an enlarged Hilbert space. The particular physical theory can be introduced through a timeless Wheeler DeWitt-like equation, whose projection onto four-dimensional coordinates leads to the Klein Gordon equation. The standard quantum mechanical product in the enlarged space, which is invariant and positive definite, implies the usual Klein Gordon product when applied to its eigenstates. Moreover, the standard three-dimensional invariant measure emerges naturally from the flat measure in four dimensions when mass eigenstates are considered, allowing a rigorous identification between definite mass history states and the standard Wigner representation. Connections with the free propagator of scalar field theory and localized states are subsequently derived. The formalism also allows the superposition of different theories and remains valid in the presence of a fixed external field, revealing special orthogonality relations. Other details such as extended identities for the current density, the quantization of parameterized theories and the nonrelativistic limit, with its connection to the Page and Wootters formalism, are discussed. A related consistent second quantization formulation is also introduced.
+  authors:     N. L. Diaz, J. M. Matera, and R. Rossignoli
+  link:
+   url:        https://doi.org/10.1103/PhysRevD.100.125020
+   display:    Phys. Rev. D 100, 125020 (2019).
+  highlight:   0
+  news2:
+
 - title:       Conditional states and entropy in qudit-qubit systems
   image:       bilkis.png
   description: We examine, in correlated mixed states of qudit-qubit systems, the set of all conditional qubit states that can be reached after local measurements at the qudit based on rank-1 projectors. While for a similar measurement at the qubit the conditional postmeasurement qudit states lie on the surface of an ellipsoid, for a measurement at the qudit we show that the set of postmeasurement qubit states can form more complex solid regions. In particular, we show the emergence, for some classes of mixed states, of sets which are the convex hull of solid ellipsoids and which may lead to conelike and trianglelike shapes in limit cases. We also analyze the associated measurement-dependent conditional entropy, providing a full analytic determination of its minimum and of the minimizing local measurement at the qudit for the previous states. Separable rank-2 mixtures are also discussed.
