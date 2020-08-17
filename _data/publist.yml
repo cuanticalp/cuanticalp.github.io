@@ -1,7 +1,7 @@
 - title:       Separability and parity transitions in XYZ spin systems under nonuniform fields
   image:       canosa2020.png
   description: We examine the existence of completely separable ground states (GS) in finite spin-s arrays with anisotropic XYZ couplings, immersed in a non-uniform magnetic field along one of the principal axes. The general conditions for their existence are determined. The analytic expressions for the separability curve in field space, and for the ensuing factorized state and GS energy, are then derived for alternating solutions, valid for any spin and size. They generalize results for uniform fields and show that nonuniform fields can induce GS factorization also in systems which do not exhibit this phenomenon in a uniform field. It is also shown that such curve corresponds to a fundamental Sz-parity transition of the GS, present for any spin and size, and that two different types of GS parity diagrams can emerge, according to the anisotropy. The role of factorization in the magnetization and entanglement of these systems is also analyzed, and analytic expressions at the borders of the factorizing curve are provided. Illustrative examples for spin pairs and chains are as well discussed. 
-  authors:     M. Bilkis, N. Canosa, R.Rossignoli, N. Gigena
+  authors:     N. Canosa, R. Mothe, and R. Rossignoli
   link:
    url:        https://doi.org/10.1103/PhysRevA.101.052103
    display:    Phys. Rev. A 101, 052103 (2020).
