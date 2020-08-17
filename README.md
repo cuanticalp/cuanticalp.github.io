@@ -13,3 +13,5 @@ We investigate, through the perspective of quantum information, a wide variety o
 # Collaboration with the Quantum Optics Lab
 
 We consider it crucial to corroborate theoretical results through experiments, so we maintain a fluid collaboration with the quantum optics laboratory of the University of Buenos Aires LPI: [Laboratorio de Procesado de Imágenes](http://loft.df.uba.ar/).
+
+![LPI](img/sevices/lasertargeting.png)
