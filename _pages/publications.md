@@ -3,7 +3,7 @@ title: "QILP - Publications"
 layout: gridlay
 excerpt: "QILP -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 
