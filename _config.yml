@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://qilp.org
+url: http://cuanticalp.github.io
 title: QILP
 email: mail@qilp.org
 author: QILP
@@ -10,8 +10,8 @@ description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document
   head meta (for Google search results) and in your feed.xml site
   description.
-copyright: 2020 QILP
-credits: 
+copyright: 2021 QILP
+credits:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
